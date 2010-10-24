@@ -3,3 +3,23 @@ DIV#forohfor {
   background-image: url(resources/oswald.jpg);
   background-repeat: no-repeat;
 }
+
+DIV#gpg {
+  width: 500px;
+  margin-left: auto;
+  margin-top: 100px;
+  margin-right: auto;
+  text-align: left;
+  color: rgb(150,150,150);
+  font-face: regular;
+
+}
+
+b.hw {
+  color: rgb(0,0,255);
+  font-face: bold;
+}
+
+pre.gpg {
+}
+
